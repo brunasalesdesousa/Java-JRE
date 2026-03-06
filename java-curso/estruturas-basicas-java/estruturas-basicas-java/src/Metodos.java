@@ -15,8 +15,8 @@ public class Metodos {
       System.out.println("Só mais 5 minutinhos :P");
     }
 
-    static String agendarAlarme(int hora, int minutos) { // parâmetros 
+    static String agendarAlarme(int horas, int minutos) { // parâmetros 
         // Seu alarme foi configurado às 12:30
-       return "Seu alarme foi configurado às " + hora + ":" + minutos;
+       return "Seu alarme foi configurado às " + horas + ":" + minutos;
     }
 }

@@ -1,4 +1,7 @@
-package br.com;
+package br.com.brunasales.relogio;
+
+import br.com.brunsales.cronometro.Timer;
+
 public class App {
     public static void main(String[] args) {
         // <tipo> identificador = valor;
@@ -10,5 +13,8 @@ public class App {
         */
         String saudacao = "Olá, Bru";
         System.out.println(saudacao);
+
+        Despertador despertador;
+        Timer timer;
     }
 }

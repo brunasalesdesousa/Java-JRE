@@ -1,3 +1,4 @@
+package br.com.brunasales.relogio;
 
 public class Despertador {
     int horas;
@@ -11,6 +12,6 @@ public class Despertador {
   
     String agendarAlarme() { 
       // Seu alarme foi configurado às 12:30
-      return "Seu alarme foi configurado às " + hora + ":" + minutos;
+      return "Seu alarme foi configurado às " + horas + ":" + minutos;
     }
 }
