@@ -3,6 +3,7 @@ public class ModificadorStatic {
         // Static: 
         // 1. Quando não precisamos de objetos!
         // 2. Constants (valores que não mudam, como ex: PI)
+        // 3. Classes utilitárias que não dependem de objetos
 
         // Conta contaJoao = new Conta();
         // Conta contaMaria = new Conta();
